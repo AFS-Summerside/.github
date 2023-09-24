@@ -1,0 +1,16 @@
+version: 2.1
+
+jobs:
+  spelling:
+    docker:
+      - image: tmaier/markdown-spellcheck:latest
+    steps:
+      - checkout
+      - run:
+          name: Check spelling
+          command: mdspell --report --ignore-numbers --ignore-acronyms "**/*.md"
+
+workflows:
+  static-analysis:
+    jobs:
+      - spelling
