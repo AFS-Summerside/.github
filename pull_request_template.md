@@ -1,6 +1,6 @@
 ## Please select a template
-- [Bug Template](/PULL_REQUEST_TEMPLATE/BUG_TEMPLATE.md)
-- [Documentation Only](PULL_REQUEST_TEMPLATE/DOCUMENTATION_TEMPLATE.md)
-- [Feature Enhancement](PULL_REQUEST_TEMPLATE/ENHANCEMENT_TEMPLATE.md)
-- [New Feature](PULL_REQUEST_TEMPLATE/FEATURE_TEMPLATE.md)
-- [Patch](PULL_REQUEST_TEMPLATE/PATCH_TEMPLATE.md)
+- [Bug Template](?expand=1&template=BUG_TEMPLATE.md)
+- [Documentation Only](?expand=1&template=DOCUMENTATION_TEMPLATE.md)
+- [Feature Enhancement](?expand=1&template=ENHANCEMENT_TEMPLATE.md)
+- [New Feature](?expand=1&template=FEATURE_TEMPLATE.md)
+- [Patch](?expand=1&template=PATCH_TEMPLATE.md)
