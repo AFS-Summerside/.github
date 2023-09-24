@@ -1,11 +1,9 @@
-## Bug Description
-`Replace anything in this style with your own text, in this case, describe the behavior of the bug`
-
-## Root Cause
-`Cause for the identified bug`
+## Patch Description
+`Replace anything in this style with your own text, in this case, describe the purpose of this patch`
+`One example might be "the Discord API change and now methodNameWeWant() has been deprecated`
 
 ## Solution
-`Describe your fix`
+`Describe how you fixed it`
 
 ## Related Issued
 `Make a list of Bugs this PR resolves in the following format`

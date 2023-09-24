@@ -1,16 +1,13 @@
-## Bug Description
-`Replace anything in this style with your own text, in this case, describe the behavior of the bug`
-
-## Root Cause
-`Cause for the identified bug`
+## Feature Description
+`Replace anything in this style with your own text, in this case, a quick description of the new feature`
 
 ## Solution
-`Describe your fix`
+`Quickly describe your implementation approach`
 
 ## Related Issued
-`Make a list of Bugs this PR resolves in the following format`
-`- fixes JMurphyPIPSC/repoName#issueNumber (Bug Issues)`
-`- resolves JMurphyPIPSC/repoName#issueNumber (Documentation Issues)`
+`Make a list of Features this PR closes in the following format`
+`- closes JMurphyPIPSC/repoName#issueNumber`
+`- resolves JMurphyPIPSC/repoName#issueNumber (Documentation Issue)`
 
 ## How Has This Been Tested?
 `Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration`
